@@ -1,0 +1,37 @@
+body{
+    font-family:'Arial',sans-serif;
+    font-size: medium;
+    background-color: brown;
+    color: rgb(139, 96, 35);
+    margin: 0;
+    padding: 0cap;
+    
+}
+h1{
+    font-size: xx-large;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #000;
+    text-shadow: #000;
+}
+h2{
+    font-size: x-large;
+    margin-bottom: 50px;
+    text-align: center;
+    color: cyan;
+}
+h3{
+    font-size: xx-large;
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgb(0, 255, 136);
+}
+p{
+   font:  sans-serif;
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+   margin-bottom: 0%;
+   color: beige;
+   text-align: center;
+
+}
